@@ -10,3 +10,6 @@
 - 😄 Pronouns: ???...
 - ⚡ Fun fact: ???...
 
+<div align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyeuu&layout=compact" />
+</div>
