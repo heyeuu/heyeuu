@@ -2,6 +2,8 @@
 (正在施工中...)
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -14,6 +16,45 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+🌆 Daytime                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+🌃 Evening                79 commits          █████████████░░░░░░░░░░░░   50.64 % 
+🌙 Night                  44 commits          ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Tuesday                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Wednesday                41 commits          ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+Thursday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Saturday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+Sunday                   30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -31,5 +72,5 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/heyeuu/heyeuu/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 18:52:24 UTC
+ Last Updated on 03/07/2025 18:51:51 UTC
 <!--END_SECTION:waka-->
