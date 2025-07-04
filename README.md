@@ -2,7 +2,7 @@
 (正在施工中...)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,16 +43,19 @@ Sunday                   30 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     32 mins             ████████████████░░░░░░░░░   65.18 % 
+JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+site                     49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -72,5 +75,5 @@ Dockerfile               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/heyeuu/heyeuu/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 18:51:51 UTC
+ Last Updated on 04/07/2025 18:50:52 UTC
 <!--END_SECTION:waka-->
